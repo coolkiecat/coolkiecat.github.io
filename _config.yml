@@ -17,8 +17,8 @@ lang: zh-CN
 title: 荡秋千的博客
 email: 721493562@qq.com
 description: 热爱技术&设计
-baseurl: "/pages" # the optional subpath of your site, e.g. "/blog"
-url: "https://coolkiecat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the optional subpath of your site, e.g. "/blog"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: 荡秋千
   twitter: 
